@@ -1,4 +1,4 @@
-# Little Go AI Agent - Homework 2
+# Little Go AI Agent
 
 ## Overview
 This project implements an AI agent to play Little-Go (5x5 Go) using advanced game-playing algorithms including Alpha-Beta pruning with minimax search. The agent competes against various AI opponents in a tournament-style grading system.
